@@ -6,9 +6,22 @@ Homework for DSES
 First, fork to your account.
 In git bash or Terminal, `$git clone {this repo on your account}`.
 
+Then, copy home directory and rename this directory with your name.
+
+```
+/
+    - /homework/
+    - /ulgoon/
+    - /...
+```
+
+And then, do your homework.
+
 After homework is done, creat pull request to this repo.
 
 Weekend of New Year's week, Answer will be uploaded.
+
+Happy New Year!!
 
 ## requirments
 requests,
@@ -18,3 +31,4 @@ selenium,
 sqlite3,
 json,
 lxml,
+pandas,
